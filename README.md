@@ -1,0 +1,2 @@
+# Algoritmosgeneticos
+Curso: Inteligencia Artificial
